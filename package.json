@@ -1,0 +1,27 @@
+{
+  "name": "catalogue-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "mongoose-paginate-v2": "^1.6.3",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "description": ""
+}
